@@ -1,6 +1,7 @@
 ## Important
 
 * Copy the folder *Keithley 2600 Series* into `C:\Program Files\National Instruments\LabVIEW 2016\instr.lib` in case of 64bit Windows.
+* All self-made vis are password-protected, contact me if you need to know the block diagram.
 
 ## References
 
