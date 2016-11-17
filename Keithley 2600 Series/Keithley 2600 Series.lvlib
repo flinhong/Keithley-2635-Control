@@ -1,11 +1,13 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Library LVVersion="9008000">
+<Library LVVersion="16008000">
 	<Property Name="Instrument Driver" Type="Str">True</Property>
 	<Property Name="NI.Lib.DefaultMenu" Type="Str">dir.mnu</Property>
 	<Property Name="NI.Lib.Description" Type="Str">LabVIEW Plug and Play instrument driver for Keithley Instrument 2600 Series SourceMeter instruments.</Property>
 	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
-	<Property Name="NI.Lib.Icon" Type="Bin">#1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*#!!!*Q(C=\&gt;3^44."%-&lt;RBV=%J/\AF6O9&amp;NS#7ZA7H")?*5R!!Z=YZS1KG*!)S;)$*QB3]\`V="C"\!1EE,BD`@(M\OT0?]&gt;*\&lt;C1TL5\&gt;&gt;Q&gt;06K`RD]+UK:P\:T[7X&lt;X_P&amp;$P[;8N`@^B0@T$_?_KT_NL]`70_L8U?/P`[``&gt;`?@/"BT?8,1.R`37:03EB9UJVH\&gt;&lt;ME4`)E4`)E4`)A$`)A$`)A$X)H&gt;X)H&gt;X)H&gt;X)D.X)D.X)D.`*WEIN=Z#*H6Z,&amp;EY73IEG":$!5*3_**`%EHM4$6S7?R*.Y%E`C99A34_**0)EH]4".C3@R**\%EXAIV34:4H)]C9@S#DS"*`!%HM$$EAI]!3"9,#A=&amp;)'BI$0Y%(A#4_$BIQ*0Y!E]A3@QU+X!%XA#4_!*0%RJOR*.-Z\E?#ADR_.Y()`D=4S5FO.R0)\(]4A?FJ0D=4Q/QFH1+1Z"TC2HA00&amp;]4A?XO2Y()`D=4S/B[ZWB&lt;TNT+A:4X)]BM@Q'"\$9XAI)=.D?!S0Y4%]F*8B-4S'R`!9(J;3Y4%]BM?!')OSP)RCRE2DE"%9(P\;X7,N+E747$PL8X.`I[JO1.7.J&lt;JB6$?#[A+L,JTKAKAW7L7"KIV2`7$6$V%"61OL#KI';MPLBD&lt;1?FJ(7^'7N!6N4JO.5\^YY(;\V7;TU4!-[PN?8&gt;&gt;JN6JJO6RKM6BI0J^L.JN.4[P`H0PD\0#Z^(RVPX[[P6E`8F]`0!X^_LG\8Y`Z*?/_K_W@3T`BW;B`WBU]ZNGD&amp;]FND3A!!!!!</Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*#!!!*Q(C=\&gt;3^44."%-&lt;RBV=%J/\AF6O9&amp;NS#7ZA7H")?*5R!!Z=YZS1KG*!)S;)$*QB3]\`V="C"\!1EE,BD`@(M\OT0?]&gt;*\&lt;C1TL5\&gt;&gt;Q&gt;06K`RD]+UK:P\:T[7X&lt;X_P&amp;$P[;8N`@^B0@T$_?_KT_NL]`70_L8U?/P`[``&gt;`?@/"BT?8,1.R`37:03EB9UJVH\&gt;&lt;ME4`)E4`)E4`)A$`)A$`)A$X)H&gt;X)H&gt;X)H&gt;X)D.X)D.X)D.`*WEIN=Z#*H6Z,&amp;EY73IEG":$!5*3_**`%EHM4$6S7?R*.Y%E`C99A34_**0)EH]4".C3@R**\%EXAIV34:4H)]C9@S#DS"*`!%HM$$EAI]!3"9,#A=&amp;)'BI$0Y%(A#4_$BIQ*0Y!E]A3@QU+X!%XA#4_!*0%RJOR*.-Z\E?#ADR_.Y()`D=4S5FO.R0)\(]4A?FJ0D=4Q/QFH1+1Z"TC2HA00&amp;]4A?XO2Y()`D=4S/B[ZWB&lt;TNT+A:4X)]BM@Q'"\$9XAI)=.D?!S0Y4%]F*8B-4S'R`!9(J;3Y4%]BM?!')OSP)RCRE2DE"%9(P\;X7,N+E747$PL8X.`I[JO1.7.J&lt;JB6$?#[A+L,JTKAKAW7L7"KIV2`7$6$V%"61OL#KI';MPLBD&lt;1?FJ(7^'7N!6N4JO.5\^YY(;\V7;TU4!-[PN?8&gt;&gt;JN6JJO6RKM6BI0J^L.JN.4[P`H0PD\0#Z^(RVPX[[P6E`8F]`0!X^_LG\8Y`Z*?/_K_W@3T`BW;B`WBU]ZNGD&amp;]FND3A!!!!!</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
 	<Property Name="NI.Lib.Version" Type="Str">2.1.3.0</Property>
+	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="Public" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Item Name="Action-Status" Type="Folder">
@@ -159,7 +161,7 @@
 			</Item>
 			<Item Name="Self-Test.vi" Type="VI" URL="/&lt;instrlib&gt;/Keithley 2600 Series/Public/Utility/Self-Test.vi"/>
 			<Item Name="Data Output Format.vi" Type="VI" URL="/&lt;instrlib&gt;/Keithley 2600 Series/Public/Utility/Data Output Format.vi"/>
-			<Item Name="Error Query.vi" Type="VI" URL="/&lt;instrlib&gt;/Keithley 2600 Series/Public/Utility/Error Query.vi"/>
+			<Item Name="Error Query.vi" Type="VI" URL="../Public/Utility/Error Query.vi"/>
 			<Item Name="Node Format.vi" Type="VI" URL="/&lt;instrlib&gt;/Keithley 2600 Series/Public/Utility/Node Format.vi"/>
 			<Item Name="Print Buffer.vi" Type="VI" URL="/&lt;instrlib&gt;/Keithley 2600 Series/Public/Utility/Print Buffer.vi"/>
 			<Item Name="Print Number.vi" Type="VI" URL="/&lt;instrlib&gt;/Keithley 2600 Series/Public/Utility/Print Number.vi"/>
@@ -167,7 +169,7 @@
 			<Item Name="Real 32 Converter.vi" Type="VI" URL="/&lt;instrlib&gt;/Keithley 2600 Series/Public/Utility/Real 32 Converter.vi"/>
 			<Item Name="Real 64 Converter.vi" Type="VI" URL="/&lt;instrlib&gt;/Keithley 2600 Series/Public/Utility/Real 64 Converter.vi"/>
 			<Item Name="Reset SMU.vi" Type="VI" URL="/&lt;instrlib&gt;/Keithley 2600 Series/Public/Utility/Reset SMU.vi"/>
-			<Item Name="Reset.vi" Type="VI" URL="/&lt;instrlib&gt;/Keithley 2600 Series/Public/Utility/Reset.vi"/>
+			<Item Name="Reset.vi" Type="VI" URL="../Public/Utility/Reset.vi"/>
 			<Item Name="Revision Query.vi" Type="VI" URL="/&lt;instrlib&gt;/Keithley 2600 Series/Public/Utility/Revision Query.vi"/>
 			<Item Name="Utility.mnu" Type="Document" URL="/&lt;instrlib&gt;/Keithley 2600 Series/Public/Utility/Utility.mnu"/>
 		</Item>
@@ -176,14 +178,14 @@
 			<Item Name="Source Function.ctl" Type="VI" URL="/&lt;instrlib&gt;/Keithley 2600 Series/Public/Source Function.ctl"/>
 		</Item>
 		<Item Name="dir.mnu" Type="Document" URL="/&lt;instrlib&gt;/Keithley 2600 Series/Public/dir.mnu"/>
-		<Item Name="Close.vi" Type="VI" URL="/&lt;instrlib&gt;/Keithley 2600 Series/Public/Close.vi"/>
-		<Item Name="Initialize.vi" Type="VI" URL="/&lt;instrlib&gt;/Keithley 2600 Series/Public/Initialize.vi"/>
+		<Item Name="Close.vi" Type="VI" URL="../Public/Close.vi"/>
+		<Item Name="Initialize.vi" Type="VI" URL="../Public/Initialize.vi"/>
 		<Item Name="VI Tree.vi" Type="VI" URL="/&lt;instrlib&gt;/Keithley 2600 Series/Public/VI Tree.vi"/>
 	</Item>
 	<Item Name="Private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		<Item Name="Default Instrument Setup.vi" Type="VI" URL="/&lt;instrlib&gt;/Keithley 2600 Series/Private/Default Instrument Setup.vi"/>
-		<Item Name="GlobalVariables.vi" Type="VI" URL="/&lt;instrlib&gt;/Keithley 2600 Series/Private/GlobalVariables.vi"/>
+		<Item Name="Default Instrument Setup.vi" Type="VI" URL="../Private/Default Instrument Setup.vi"/>
+		<Item Name="GlobalVariables.vi" Type="VI" URL="../Private/GlobalVariables.vi"/>
 		<Item Name="Command String.ctl" Type="VI" URL="/&lt;instrlib&gt;/Keithley 2600 Series/Private/Command String.ctl"/>
 	</Item>
 	<Item Name="Keithley 2600 Series Readme.html" Type="Document" URL="/&lt;instrlib&gt;/Keithley 2600 Series/Keithley 2600 Series Readme.html"/>
