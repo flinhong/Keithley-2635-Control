@@ -1,7 +1,7 @@
 ## References
 
-* LabVIEW driver (Keithley_2600_Series(2.5.0)_LV_2009.zip) for Keithley 2600 from [National Instrument Network](http://sine.ni.com/apps/utf8/niid_web_display.model_page?p_model_id=7393)
-* Keithley 2600 Reference Manual and Firmware 1.4.2 from [Tektronix Website](http://www.tek.com/software/2600-series-firmware-upgrade-version-142-manuals)
+* LabVIEW driver (Keithley_2600_Series(2.5.0)_LV_2009.zip) for Keithley 2600 from [National Instrument Network](http://sine.ni.com/apps/utf8/niid_web_display.model_page?p_model_id=7393), just for reference, not used in the program.
+* Keithley 2600 Reference Manual and Firmware 1.4.2 from [Tektronix Website](http://www.tek.com/software/2600-series-firmware-upgrade-version-142-manuals).
 
 ## Notice
 
